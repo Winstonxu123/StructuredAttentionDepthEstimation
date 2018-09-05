@@ -89,3 +89,5 @@ Please consider citing the following paper if the code is helpful in your resear
 }
 </pre>
 
+###  Appendix
+Here using EuclideanMaskLayer to be loss layer, aiming to ignore pixels that depth is 0.
